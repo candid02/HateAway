@@ -1,0 +1,8 @@
+pandas
+numpy
+nltk
+joblib
+demoji
+unidecode
+textblob
+scikit-learn

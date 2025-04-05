@@ -1,0 +1,15 @@
+# Python (Flask-related)
+__pycache__/
+*.pyc
+*.pkl
+.env
+
+# Flutter
+hateaway/build/
+hateaway/.dart_tool/
+hateaway/.idea/
+hateaway/.packages
+hateaway/pubspec.lock
+
+# System files
+.DS_Store
